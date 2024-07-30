@@ -1,5 +1,6 @@
 v2.1.1a PNG Fix
 - Remove .jpg format and Added .png format for all image files and covers
+mLoaD
 
 v2.1.1a
 Here's the change log:
